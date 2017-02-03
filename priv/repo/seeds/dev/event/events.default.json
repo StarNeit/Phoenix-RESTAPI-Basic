@@ -1,0 +1,15 @@
+[
+  {
+    "name": "event1",
+    "location_address": "location_address1",
+    "website_url": "www.google.com",
+    "booking_hotline": "+85299999998",
+    "booking_url": "www.google.com",
+    "description": "this is a description this is a descriptionthis is a descriptionthis is a descriptionthis is a descriptionthis is a descriptionthis is a descriptionthis is a descriptionthis is a descriptionthis is a descriptionthis is a descriptionthis is a descriptionthis is a descriptionthis is a descriptionthis is a descriptionthis is a descriptionthis is a descriptionthis is a descriptionthis is a descriptionthis is a descriptionthis is a descriptionthis is a descriptionthis is a description",
+    "contact_number": "+85299999999",
+    "price_range": {
+      "lo": 100,
+      "hi": 150
+    }
+  }
+]

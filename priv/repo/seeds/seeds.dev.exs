@@ -1,0 +1,5 @@
+Mix.shell.cmd("mix run ./priv/repo/seeds/#{Mix.env}/seeds.admin.exs")
+Mix.shell.cmd("mix run ./priv/repo/seeds/#{Mix.env}/seeds.place.exs")
+Mix.shell.cmd("mix run ./priv/repo/seeds/#{Mix.env}/seeds.region.exs")
+Mix.shell.cmd("mix run ./priv/repo/seeds/#{Mix.env}/seeds.event.exs")
+Mix.shell.cmd("mix run ./priv/repo/seeds/#{Mix.env}/seeds.consumer.exs")

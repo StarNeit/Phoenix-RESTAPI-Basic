@@ -1,0 +1,35 @@
+[
+  {
+    "name": "region1",
+    "hex_color_code": "#E5847A",
+    "districts": [
+      {
+        "name": "district1",
+        "hex_color_code": "#B02D5C"
+      },
+      {
+        "name": "district2",
+        "hex_color_code": "#C8E413"
+      },
+      {
+        "name": "district3",
+        "hex_color_code": "#A7C266"
+      },
+      {
+        "name": "district4",
+        "hex_color_code": "#15FE72"
+      }
+    ]
+  },
+
+  {
+    "name": "region2",
+    "hex_color_code": "#853217",
+    "districts": [
+      {
+        "name": "district15",
+        "hex_color_code": "#7C74E6"
+      }
+    ]
+  }
+]
